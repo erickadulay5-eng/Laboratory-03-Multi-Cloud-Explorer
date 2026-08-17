@@ -8,3 +8,15 @@ Laboratory-03-Multi-Cloud-Explorer
 ├── client-recommendations.md
 ├── reflection.md
 └── screenshots
+# Laboratory 03 - Multi-Cloud Explorer
+
+## Linux Investigation
+
+The Linux server was investigated using a KillerCoda Linux Playground.
+
+### Operating System
+
+The operating system was identified using:
+
+```bash
+cat /etc/os-release
