@@ -49,3 +49,13 @@ AWS is recommended because the company serves customers around the world and req
 - Amazon EC2 - for application servers
 - Amazon S3 - for object storage
 - Elastic Load Balancing - for distributing traffic
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS offers a wide range of services and flexible options for scaling as the startup grows. |
+| Enterprise Organization | AWS | AWS provides a broad portfolio of enterprise services for different business requirements. |
+| Microsoft Environment | Azure | Azure provides strong integration with Windows Server, Microsoft 365, and Microsoft Entra ID. |
+| AI / Machine Learning | GCP | Google Cloud provides strong AI and Machine Learning tools such as Vertex AI. |
+| Kubernetes Deployment | GCP | Google Cloud provides Google Kubernetes Engine (GKE), a managed Kubernetes service. |
+| Global Web Application | AWS | AWS provides global infrastructure and scalable services for applications serving users worldwide. |
